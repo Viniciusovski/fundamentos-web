@@ -1,3 +1,6 @@
+/*
+*O principal objetivo do método bind é alterar o contexto this de uma função independente de onde a mesma esteja sendo chamada.
+*/
 const pessoa = {
     saudacao: 'Bom dia!',
     falar() {

@@ -1,3 +1,7 @@
+/*
+* Arguments, é um array com os paramentros de uma função
+*/
+
 function soma() {
     let soma = 0
     for (i in arguments) {
