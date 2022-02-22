@@ -1,3 +1,6 @@
+/*
+* Factory é uma função que retorna objetos
+*/
 // Factory simples
 function criarPessoa() {
     return {
